@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeta</h1>
-<h3 align="center">Recent Computer Science graduate passionate about leveraging data to drive insights and innovation. Actively exploring opportunities in Data Science :)</h3>
+<h3 align="center">Recent Computer Science graduate passionate about leveraging data to drive insights and innovation. Actively exploring opportunities in Data Science :) Let's chat!</h3>
 
 - 🌱 I’m currently learning **ML with TensorFlow**
 
